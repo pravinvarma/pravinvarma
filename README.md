@@ -3,6 +3,6 @@
 graphic design and animation.
 </p>
 <ul><li> 
-<a href="https://chrome.google.com/webstore/detail/dinkar/dgifjaieooffhnbpkbdifhkgpncackio?hl=en">Chrome Extension</a></li>
-<li><a href="http://pravinvarma.com/">Check out my portfolio</a></li>
+<a href="https://chrome.google.com/webstore/detail/dinkar/dgifjaieooffhnbpkbdifhkgpncackio?hl=en" target="_blank">Chrome Extension</a></li>
+<li><a href="http://pravinvarma.com/" target="_blank">Check out my portfolio</a></li>
 </ul>

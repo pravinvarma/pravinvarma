@@ -5,4 +5,6 @@
 <ul><li> 
 <a href="https://chrome.google.com/webstore/detail/dinkar/dgifjaieooffhnbpkbdifhkgpncackio?hl=en" target="_blank">Chrome Extension</a></li>
 <li><a href="http://pravinvarma.com/" target="_blank">Check out my portfolio</a></li>
+<li><a href="https://www.linkedin.com/in/pravinvarma/" target="_blank">Linkedin</a></li>
+  <li><a href="https://twitter.com/pravindvarma" target="_blank">Twitter</a></li>
 </ul>
